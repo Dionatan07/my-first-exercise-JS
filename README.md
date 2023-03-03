@@ -15,6 +15,6 @@ Curso de JavaScript
 - [x] Uso do body.innerHTML
 - [x] Uso dos métodos e funções .indexOf(), lastIndexOf(), slice(), .length, .split(), toUpperCase() e toLowerCase().
 
-----------------------------------------------
+-------------------------------------------------
 
 Disponibilizado por [dionatan07](https://www.linkedin.com/in/dionatandeandrade/ "LinkedIn").
